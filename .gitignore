@@ -1,0 +1,9 @@
+node_modules/
+dashboard/node_modules/
+dashboard/dist/
+.venv/
+__pycache__/
+*.pyc
+python/.env
+python/device_keys/
+.env

@@ -1,0 +1,20 @@
+{
+  "76cd685cfb9dd53c6c81233080e417a6bf5c119675bea4f7aad27b140f67282a": {
+    "deviceId": "DEV002",
+    "temperature": 28.5,
+    "humidity": 60.0,
+    "timestamp": "2026-10-14T09:34:49.448206+00:00"
+  },
+  "f503d35eb7a56c4fec547459ade6a1eb307dfeb6253fc4bd90a0b2bf05fb26c2": {
+    "deviceId": "DEV0011",
+    "temperature": 28.5,
+    "humidity": 60.0,
+    "timestamp": "2026-10-14T14:49:37.250106+00:00"
+  },
+  "f672dfedbe0006be91740d5dc69076d6aadfdbed442fd603e75564d1229d2751": {
+    "deviceId": "DEV001",
+    "temperature": 28.5,
+    "humidity": 60.0,
+    "timestamp": "2026-10-15T15:20:39.424427+00:00"
+  }
+}
